@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm ARAVIND CHIDAMBARAM R</h1>
 <h3 align="center">A passionate Electronics Engineer and an emerging Frontend Developer.</h3>
 
